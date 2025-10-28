@@ -7,7 +7,7 @@ A página web que mostra as cidades natais de alguns funcionários da TripleTen.
 - HTML5 semântico
 - Flexbox
 - Posicionamento
-- Formulários
+- @font-face
 - Metodologia BEM
 - Hover
 
