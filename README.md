@@ -9,7 +9,7 @@ A página web que mostra as cidades natais de alguns funcionários da TripleTen.
 - Posicionamento
 - @font-face
 - Metodologia BEM
-- Hover
+- Responividade
 
 ## Planos de melhoria do projeto
 
