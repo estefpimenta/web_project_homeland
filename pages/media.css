@@ -1,0 +1,144 @@
+/* media queries */
+
+@media screen and (max-width: 1024px) {
+
+    /* lead block */
+
+        .lead {
+            max-width: 720px;
+            max-height: 983px;
+            margin: 0 auto 90px;
+            position: relative;
+        }
+
+        .lead__title {
+            max-width: 530px;
+            margin: 0 auto 25px;
+
+            font-family: "Inter", sans-serif;
+            font-weight:900;
+            font-style: Black;
+            font-size: 75px;
+            line-height: 79px;
+            letter-spacing: 0%;
+            color: #fff;
+            text-align: center;
+        }
+
+        .lead__subtitle {
+            max-width: 720px;
+            margin: 0 auto 30px;
+
+            font-family: "Inter Light", sans-serif;
+            font-weight:400;
+            font-style: Light;
+            font-size: 30px;
+            line-height: 36px;
+            color: #fff;
+            text-align: center;
+        }
+
+        .lead__image {
+            width:100vw;
+            position: relative;
+            left: 50%;
+            right: 50%;
+            margin-left: -50vw;   
+            margin-right: -50vw;
+        }
+
+
+    /* intro block */
+
+        .intro {
+            max-width: 720px;
+            max-height: 490px;
+            margin: 0 auto 88px auto;
+        }
+
+        .intro__title {
+            max-width: 707px;
+            text-align: start;
+            margin-bottom: 50px;
+
+            font-family: "Inter", sans-serif;
+            font-weight:900;
+            font-style: Black;
+            font-size: 45px;
+            line-height: 49px;
+            letter-spacing: 0%;
+            color: #fff;
+        }
+
+        .intro__quote {
+            max-width: 720px;
+            text-align: start;
+            margin-bottom: 0;
+
+            font-family: "Inter Regular", sans-serif;
+            font-weight:400;
+            font-style: Regular;
+            font-size: 24px;
+            line-height: 34px;
+            color: #fff;
+            letter-spacing: 0%;
+        }
+
+        .intro__quote-cite {
+            max-width: 720px;
+            text-align: end;
+            margin-bottom: 32px;
+
+            font-family: "Inter Regular", sans-serif;
+            font-weight:400;
+            font-style: Regular;
+            font-size: 24px;
+            line-height: 34px;
+            color: #fff;
+            letter-spacing: 0%;
+
+        }
+
+        .intro__text {
+            max-width: 720px;
+            max-height: 182px;
+            text-align: start;
+
+            font-family: "Inter Light", sans-serif;
+            font-weight:400;
+            font-style: light;
+            font-size: 16px;
+            line-height: 163%;
+            color: #fff;
+            letter-spacing: 0%;
+        }
+
+    /* footer block */
+
+        .footer {
+            max-width: 186px;
+            max-height: 16px;
+            margin: 0 auto 24px;
+            
+        }
+
+        .footer__text {
+            width: 100%;
+            text-align: right;
+
+            font-family: "Inter Light", sans-serif;
+            font-weight:400;
+            font-style: light;
+            font-size: 14px;
+            line-height: 16px;
+            color: #fff;
+            letter-spacing: 0%;
+        }
+
+
+    }
+
+
+@media screen and (max-width: 544px) {
+    
+}
