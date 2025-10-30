@@ -140,5 +140,158 @@
 
 
 @media screen and (max-width: 544px) {
+
+    /* nav block */
+
+        .logo {
+            max-width: 188px;
+            max-height: 52px;
+            margin: 20px auto 50px auto;
+
+        }
+
+        .logo__image {
+            width: 100%;
+        }
+    
+    
+    /* lead block */
+
+        .lead {
+            max-width: 288px;
+            max-height: 584px;
+            margin: 0 auto 64px;
+            position: relative;
+        }
+
+        .lead__title {
+            max-width: 288px;
+            margin: 0 auto 16px;
+
+            font-family: "Inter", sans-serif;
+            font-weight:900;
+            font-style: Black;
+            font-size: 40px;
+            line-height: 44px;
+            letter-spacing: 0%;
+            color: #fff;
+            text-align: center;
+        }
+
+        .lead__subtitle {
+            max-width: 288px;
+            margin: 0 auto 40px;
+
+            font-family: "Inter Light", sans-serif;
+            font-weight:400;
+            font-style: Light;
+            font-size: 16px;
+            line-height: 20px;
+            color: #fff;
+            text-align: center;
+        }
+
+        .lead__image {
+            width:100vw;
+            position: relative;
+            left: 50%;
+            right: 50%;
+            margin-left: -50vw;   
+            margin-right: -50vw;
+        }
+
+
+    /* intro block */
+
+        .intro {
+            max-width: 288px;
+            max-height: 878px;
+            margin: 0 auto 64px auto;
+        }
+
+        .intro__title {
+            max-width: 288px;
+            text-align: start;
+            margin-bottom: 40px;
+
+            font-family: "Inter", sans-serif;
+            font-weight:900;
+            font-style: Black;
+            font-size: 32px;
+            line-height: 35px;
+            letter-spacing: 0%;
+            color: #fff;
+        }
+
+        .intro__quote {
+            max-width: 288px;
+            text-align: start;
+            margin-bottom: 0;
+
+            font-family: "Inter Regular", sans-serif;
+            font-weight:400;
+            font-style: Regular;
+            font-size: 24px;
+            line-height: 30px;
+            color: #fff;
+            letter-spacing: 0%;
+        }
+
+        .intro__quote-cite {
+            max-width: 288px;
+            text-align: end;
+            margin-bottom: 32px;
+
+            font-family: "Inter Regular", sans-serif;
+            font-weight:400;
+            font-style: Regular;
+            font-size: 24px;
+            line-height: 34px;
+            color: #fff;
+            letter-spacing: 0%;
+
+        }
+
+        .intro__text {
+            max-width: 288px;
+            max-height: 442px;
+            text-align: start;
+
+            font-family: "Inter Light", sans-serif;
+            font-weight:400;
+            font-style: light;
+            font-size: 16px;
+            line-height: 163%;
+            color: #fff;
+            letter-spacing: 0%;
+        }
+
+    /* footer block */
+
+        .footer {
+            max-width: 186px;
+            max-height: 46px;
+            margin: 0 auto 24px;
+            
+        }
+
+        .footer__text {
+            width: 100%;
+            text-align: right;
+
+            font-family: "Inter Light", sans-serif;
+            font-weight:400;
+            font-style: light;
+            font-size: 14px;
+            line-height: 14px;
+            color: #fff;
+            letter-spacing: 0%;
+        }
+
+
+    
+
+
+
     
 }
