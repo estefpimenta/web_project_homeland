@@ -1,0 +1,22 @@
+/* footer block */
+
+.footer {
+    max-width: 186px;
+    max-height: 16px;
+    margin: 0 auto 24px;
+    
+}
+
+.footer__text {
+    width: 100%;
+    text-align: right;
+
+    font-family: "Inter Light", sans-serif;
+    font-weight:400;
+    font-style: light;
+    font-size: 14px;
+    line-height: 16px;
+    color: #fff;
+    letter-spacing: 0%;
+}
+
