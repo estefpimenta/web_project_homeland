@@ -3,3 +3,27 @@
     max-height: 482px;
     margin: 0 332px 92px auto;
 }
+
+
+@media screen and (max-width: 1024px) {
+
+
+    /* content block */
+
+        .content {
+            max-width: 720px;
+            max-height: 490px;
+            margin: 0 auto 88px auto;
+        }
+}
+
+
+@media screen and (max-width: 544px) {
+
+  .content {
+            max-width: 288px;
+            max-height: 878px;
+            margin: 0 auto 64px auto;
+        }
+
+}

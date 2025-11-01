@@ -4,7 +4,7 @@
     max-width: 186px;
     max-height: 16px;
     margin: 0 auto 24px;
-    
+
 }
 
 .footer__text {
@@ -20,3 +20,58 @@
     letter-spacing: 0%;
 }
 
+
+
+@media screen and (max-width: 1024px) {
+
+    /* footer block */
+
+        .footer {
+            max-width: 186px;
+            max-height: 16px;
+            margin: 0 auto 24px;
+
+        }
+
+        .footer__text {
+            width: 100%;
+            text-align: right;
+
+            font-family: "Inter Light", sans-serif;
+            font-weight:400;
+            font-style: light;
+            font-size: 14px;
+            line-height: 16px;
+            color: #fff;
+            letter-spacing: 0%;
+        }
+
+
+}
+
+
+@media screen and (max-width: 544px) {
+
+    /* footer block */
+
+        .footer {
+            max-width: 186px;
+            max-height: 46px;
+            margin: 0 auto 24px;
+
+        }
+
+        .footer__text {
+            width: 100%;
+            text-align: right;
+
+            font-family: "Inter Light", sans-serif;
+            font-weight:400;
+            font-style: light;
+            font-size: 14px;
+            line-height: 14px;
+            color: #fff;
+            letter-spacing: 0%;
+        }
+
+}

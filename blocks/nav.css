@@ -9,3 +9,20 @@
 .nav__logo {
     width: 100%;
 }
+
+
+@media screen and (max-width: 544px) {
+
+    /* nav block */
+
+        .nav {
+            max-width: 188px;
+            max-height: 52px;
+            margin: 20px auto 50px auto;
+
+        }
+
+        .nav__image {
+            width: 100%;
+        }
+}

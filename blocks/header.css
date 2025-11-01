@@ -36,3 +36,103 @@
 .header__image {
     width: 100%;
 }
+
+
+@media screen and (max-width: 1024px) {
+
+    /* header block */
+
+        .header {
+            max-width: 720px;
+            max-height: 983px;
+            margin: 0 auto 90px;
+            position: relative;
+        }
+
+        .header__title {
+            max-width: 530px;
+            margin: 0 auto 25px;
+
+            font-family: "Inter", sans-serif;
+            font-weight:900;
+            font-style: Black;
+            font-size: 75px;
+            line-height: 79px;
+            letter-spacing: 0%;
+            color: #fff;
+            text-align: center;
+        }
+
+        .header__subtitle {
+            max-width: 720px;
+            margin: 0 auto 30px;
+
+            font-family: "Inter Light", sans-serif;
+            font-weight:400;
+            font-style: Light;
+            font-size: 30px;
+            line-height: 36px;
+            color: #fff;
+            text-align: center;
+        }
+
+        .header__image {
+            width:100vw;
+            position: relative;
+            left: 50%;
+            right: 50%;
+            margin-left: -50vw;
+            margin-right: -50vw;
+        }
+}
+
+
+@media screen and (max-width: 544px) {
+
+
+
+    /* header block */
+
+        .header {
+            max-width: 288px;
+            max-height: 584px;
+            margin: 0 auto 64px;
+            position: relative;
+        }
+
+        .header__title {
+            max-width: 288px;
+            margin: 0 auto 16px;
+
+            font-family: "Inter", sans-serif;
+            font-weight:900;
+            font-style: Black;
+            font-size: 40px;
+            line-height: 44px;
+            letter-spacing: 0%;
+            color: #fff;
+            text-align: center;
+        }
+
+        .header__subtitle {
+            max-width: 288px;
+            margin: 0 auto 40px;
+
+            font-family: "Inter Light", sans-serif;
+            font-weight:400;
+            font-style: Light;
+            font-size: 16px;
+            line-height: 20px;
+            color: #fff;
+            text-align: center;
+        }
+
+        .header__image {
+            width:100vw;
+            position: relative;
+            left: 50%;
+            right: 50%;
+            margin-left: -50vw;
+            margin-right: -50vw;
+        }
+}
