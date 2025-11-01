@@ -1,0 +1,56 @@
+.section__title {
+    max-width: 830px;
+    text-align: start;
+    margin-bottom: 32px;
+
+    font-family: "Inter", sans-serif;
+    font-weight:900;
+    font-style: Black;
+    font-size: 54px;
+    line-height: 58px;
+    letter-spacing: 0%;
+    color: #fff;
+}
+
+.section__quote {
+    max-width: 738px;
+    text-align: start;
+    margin-bottom: 10px;
+
+    font-family: "Inter Regular", sans-serif;
+    font-weight:400;
+    font-style: Regular;
+    font-size: 24px;
+    line-height: 34px;
+    color: #fff;
+    letter-spacing: 0;
+}
+
+.section__quote-cite {
+    max-width: 738px;
+    text-align: end;
+    margin-bottom: 32px;
+
+    font-family: "Inter Regular", sans-serif;
+    font-weight:400;
+    font-style: Regular;
+    font-size: 24px;
+    line-height: 34px;
+    color: #fff;
+    letter-spacing: 0;
+
+}
+
+.section__text {
+    max-width: 722px;
+    max-height: 182px;
+    text-align: start;
+
+    font-family: "Inter Light", sans-serif;
+    font-weight:400;
+    font-style: light;
+    font-size: 16px;
+    line-height: 163%;
+    color: #fff;
+    letter-spacing: 0;
+}
