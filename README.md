@@ -5,6 +5,7 @@ A página web que mostra as cidades natais de alguns funcionários da TripleTen.
 ## Recursos do projeto
 
 - HTML5 semântico
+- CSS3
 - Flexbox
 - Posicionamento
 - @font-face
@@ -13,4 +14,5 @@ A página web que mostra as cidades natais de alguns funcionários da TripleTen.
 
 ## Link para o GitHub Pages
 
+https://estefpimenta.github.io/web_project_homeland/
 
