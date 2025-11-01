@@ -6,7 +6,7 @@
     margin: 0 332px 92px auto;
 }
 
-.content__title {
+.section__title {
     max-width: 830px;
     text-align: start;
     margin-bottom: 32px;
@@ -20,7 +20,7 @@
     color: #fff;
 }
 
-.content__quote {
+.section__quote {
     max-width: 738px;
     text-align: start;
     margin-bottom: 10px;
@@ -34,7 +34,7 @@
     letter-spacing: 0;
 }
 
-.content__quote-cite {
+.section__quote-cite {
     max-width: 738px;
     text-align: end;
     margin-bottom: 32px;
@@ -49,7 +49,7 @@
 
 }
 
-.content__text {
+.section__text {
     max-width: 722px;
     max-height: 182px;
     text-align: start;
