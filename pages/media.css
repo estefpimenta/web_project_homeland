@@ -2,16 +2,16 @@
 
 @media screen and (max-width: 1024px) {
 
-    /* lead block */
+    /* header block */
 
-        .lead {
+        .header {
             max-width: 720px;
             max-height: 983px;
             margin: 0 auto 90px;
             position: relative;
         }
 
-        .lead__title {
+        .header__title {
             max-width: 530px;
             margin: 0 auto 25px;
 
@@ -25,7 +25,7 @@
             text-align: center;
         }
 
-        .lead__subtitle {
+        .header__subtitle {
             max-width: 720px;
             margin: 0 auto 30px;
 
@@ -38,25 +38,25 @@
             text-align: center;
         }
 
-        .lead__image {
+        .header__image {
             width:100vw;
             position: relative;
             left: 50%;
             right: 50%;
-            margin-left: -50vw;   
+            margin-left: -50vw;
             margin-right: -50vw;
         }
 
 
-    /* intro block */
+    /* content block */
 
-        .intro {
+        .content {
             max-width: 720px;
             max-height: 490px;
             margin: 0 auto 88px auto;
         }
 
-        .intro__title {
+        .section__title {
             max-width: 707px;
             text-align: start;
             margin-bottom: 50px;
@@ -70,7 +70,7 @@
             color: #fff;
         }
 
-        .intro__quote {
+        .section__quote {
             max-width: 720px;
             text-align: start;
             margin-bottom: 0;
@@ -84,7 +84,7 @@
             letter-spacing: 0%;
         }
 
-        .intro__quote-cite {
+        .section__quote-cite {
             max-width: 720px;
             text-align: end;
             margin-bottom: 32px;
@@ -99,7 +99,7 @@
 
         }
 
-        .intro__text {
+        .section__text {
             max-width: 720px;
             max-height: 182px;
             text-align: start;
@@ -119,7 +119,7 @@
             max-width: 186px;
             max-height: 16px;
             margin: 0 auto 24px;
-            
+
         }
 
         .footer__text {
@@ -143,28 +143,28 @@
 
     /* nav block */
 
-        .logo {
+        .nav {
             max-width: 188px;
             max-height: 52px;
             margin: 20px auto 50px auto;
 
         }
 
-        .logo__image {
+        .nav__image {
             width: 100%;
         }
-    
-    
-    /* lead block */
 
-        .lead {
+
+    /* header block */
+
+        .header {
             max-width: 288px;
             max-height: 584px;
             margin: 0 auto 64px;
             position: relative;
         }
 
-        .lead__title {
+        .header__title {
             max-width: 288px;
             margin: 0 auto 16px;
 
@@ -178,7 +178,7 @@
             text-align: center;
         }
 
-        .lead__subtitle {
+        .header__subtitle {
             max-width: 288px;
             margin: 0 auto 40px;
 
@@ -191,25 +191,25 @@
             text-align: center;
         }
 
-        .lead__image {
+        .header__image {
             width:100vw;
             position: relative;
             left: 50%;
             right: 50%;
-            margin-left: -50vw;   
+            margin-left: -50vw;
             margin-right: -50vw;
         }
 
 
-    /* intro block */
+    /* content block */
 
-        .intro {
+        .content {
             max-width: 288px;
             max-height: 878px;
             margin: 0 auto 64px auto;
         }
 
-        .intro__title {
+        .section__title {
             max-width: 288px;
             text-align: start;
             margin-bottom: 40px;
@@ -223,7 +223,7 @@
             color: #fff;
         }
 
-        .intro__quote {
+        .section__quote {
             max-width: 288px;
             text-align: start;
             margin-bottom: 0;
@@ -237,7 +237,7 @@
             letter-spacing: 0%;
         }
 
-        .intro__quote-cite {
+        .section__quote-cite {
             max-width: 288px;
             text-align: end;
             margin-bottom: 32px;
@@ -252,7 +252,7 @@
 
         }
 
-        .intro__text {
+        .section__text {
             max-width: 288px;
             max-height: 442px;
             text-align: start;
@@ -272,7 +272,7 @@
             max-width: 186px;
             max-height: 46px;
             margin: 0 auto 24px;
-            
+
         }
 
         .footer__text {
@@ -289,9 +289,9 @@
         }
 
 
-    
 
 
 
-    
+
+
 }
