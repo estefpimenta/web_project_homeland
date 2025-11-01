@@ -1,12 +1,12 @@
 /* main block */
 
-.intro {
+.content {
     max-width: 830px;
     max-height: 482px;
     margin: 0 332px 92px auto;
 }
 
-.intro__title {
+.content__title {
     max-width: 830px;
     text-align: start;
     margin-bottom: 32px;
@@ -20,7 +20,7 @@
     color: #fff;
 }
 
-.intro__quote {
+.content__quote {
     max-width: 738px;
     text-align: start;
     margin-bottom: 10px;
@@ -34,7 +34,7 @@
     letter-spacing: 0;
 }
 
-.intro__quote-cite {
+.content__quote-cite {
     max-width: 738px;
     text-align: end;
     margin-bottom: 32px;
@@ -49,7 +49,7 @@
 
 }
 
-.intro__text {
+.content__text {
     max-width: 722px;
     max-height: 182px;
     text-align: start;

@@ -1,11 +1,11 @@
 /* nav block */
 
-.logo {
+.nav__logo {
     max-width: 254px;
     margin: 34px auto 90px;
 
 }
 
-.logo__image {
+.nav__logo-image {
     width: 100%;
 }

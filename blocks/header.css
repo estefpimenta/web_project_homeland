@@ -1,12 +1,12 @@
 /* header block */
 
-.lead {
+.header {
     max-width: 984px;
     max-height: 983px;
     margin: 0 auto 92px;
 }
 
-.lead__title {
+.header__title {
     max-width: 720px;
     margin: 0 auto 32px;
 
@@ -20,7 +20,7 @@
     text-align: center;
 }
 
-.lead__subtitle {
+.header__subtitle {
     max-width: 720px;
     margin: 0 auto 64px;
 
@@ -33,6 +33,6 @@
     text-align: center;
 }
 
-.lead__image {
+.header__image {
     width: 100%;
 }
