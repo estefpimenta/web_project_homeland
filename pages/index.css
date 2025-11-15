@@ -2,7 +2,6 @@
 
 /* Importações Estilo, Blocos, Media */
 
-@import url(../vendor/normalize.css);
 @import url(../vendor/fonts.css);
 @import url(../blocks/page.css);
 @import url(../blocks/nav.css);
@@ -10,4 +9,3 @@
 @import url(../blocks/content.css);
 @import url(../blocks/section.css);
 @import url(../blocks/footer.css);
-@import url(./media.css);
