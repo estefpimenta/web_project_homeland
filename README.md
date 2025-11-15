@@ -12,6 +12,7 @@ A página web que mostra as cidades natais de alguns funcionários da TripleTen.
 - Metodologia BEM
 - Responividade
 - Grid layout
+- Image compression
 
 ## Link para o GitHub Pages
 
