@@ -103,10 +103,11 @@
 }
 
 .places__button {
-  max-width: 356px;
-  max-height: 48px;
+  max-width: 366px;
+  height: 48px;
   border-radius: 4px;
   border: none;
+  padding: 13px 20px;
 
   background: linear-gradient(90deg, #0278FE 0%, #003A7B 99.98%);
   color: #fff;
