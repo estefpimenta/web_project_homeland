@@ -10,9 +10,43 @@
 }
 
 .places__item {
-
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  grid-template-areas:
+    "name subtitle"
+    "image text-up"
+    "image text-down"
+    "button ."
+    ;
 
 }
+
+/* Áreas */
+.area-name {
+  grid-area: name;
+}
+
+.area-subtitle {
+  grid-area: subtitle;
+}
+
+.area-image {
+  grid-area: image;
+}
+
+.area-text-up {
+  grid-area: text-up;
+}
+
+.area-text-down {
+  grid-area: text-down;
+}
+
+.area-button {
+  grid-area: button;
+}
+
 
 
 
