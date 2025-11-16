@@ -1,0 +1,24 @@
+/* Area names */
+.area-name {
+  grid-area: name;
+}
+
+.area-subtitle {
+  grid-area: subtitle;
+}
+
+.area-image {
+  grid-area: image;
+}
+
+.area-text-up {
+  grid-area: text-up;
+}
+
+.area-text-down {
+  grid-area: text-down;
+}
+
+.area-button {
+  grid-area: button;
+}

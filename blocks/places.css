@@ -1,5 +1,8 @@
 /* Places Block */
 
+@import url(areas.css);
+@import url(span.css);
+
 .places {
   max-width: 984px;
   margin: 0 auto 90px;
@@ -25,29 +28,6 @@
 }
 
 
-.area-name {
-  grid-area: name;
-}
-
-.area-subtitle {
-  grid-area: subtitle;
-}
-
-.area-image {
-  grid-area: image;
-}
-
-.area-text-up {
-  grid-area: text-up;
-}
-
-.area-text-down {
-  grid-area: text-down;
-}
-
-.area-button {
-  grid-area: button;
-}
 
 /* Styles */
 
@@ -219,7 +199,7 @@
     color: #fff;
   }
 
-  .span{
+  /* .span{
     font-family: Inter;
     font-weight: 400;
     font-size: 12px;
@@ -228,7 +208,7 @@
     text-transform: uppercase;
     color: #aaa;
     padding-top: 0;
-    }
+    } */
 
   .places__subtitle {
     font-family: Inter;
