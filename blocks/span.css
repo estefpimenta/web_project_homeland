@@ -1,4 +1,17 @@
-.span{
+.span {
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 100%;
+  letter-spacing: 12%;
+  text-transform: uppercase;
+  color: #aaa;
+}
+
+
+@media screen and (max-width: 544px) {
+
+  .span{
     font-family: Inter;
     font-weight: 400;
     font-size: 12px;
@@ -8,3 +21,4 @@
     color: #aaa;
     padding-top: 0;
     }
+}
