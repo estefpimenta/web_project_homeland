@@ -11,6 +11,7 @@ A página web que mostra as cidades natais de alguns funcionários da TripleTen.
 - @font-face
 - Metodologia BEM
 - Responividade
+- Hover state
 - Grid layout
 - Image compression
 
